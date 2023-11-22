@@ -1,0 +1,71 @@
+* {
+    font-family: 'Inter', sans-serif;  
+}
+
+/* Header */
+.header {
+    padding: 50px 0;
+    color: aliceblue;
+    background-color: rgb(34, 34, 34);
+}
+
+.logo {
+    display: block;
+    margin: 0 auto 50px auto;
+    
+}
+
+.text-header {
+    text-align: center;
+}
+
+/*Campo de professores*/
+.campo-professores{
+    background-color: rgb(29, 29, 63);
+    padding: 100px 0;
+}
+
+.prof {
+    max-width: 350px;
+    margin: 0 auto 50px auto;
+    text-align: center;
+    color: aliceblue;
+}
+.img-prof {
+   width: 100%; 
+   
+}
+
+.nome-prof{
+   font-size: 15ox;
+   font-weight: 900;
+   margin-top: 24px;
+   margin-bottom: 0; 
+   color: aliceblue;
+}
+
+.valor-prof{
+    color: #f52273;
+    font-size: 14px;
+    font-weight: 700;
+    margin-top: 0;
+    margin-bottom: 24px;
+    
+}
+
+.descricao-prof{
+    font-size: 14px;
+    font-family: 400;
+    margin-top: 0;
+    margin-bottom: 37px;
+    color: aliceblue;
+}
+
+.calc-prof{
+    text-decoration: none;
+    color: aliceblue;
+    background-color: #f52273;
+    padding: 16px 44px;
+    font-weight: 900;
+}
+
